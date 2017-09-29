@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d(TAG,"my name is xu jia li - -");
+        Log.d(TAG,"love - -");
     }
 }
