@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG,"my name is xu jia li - -");
         Log.d(TAG,"love - -");
+        Log.d(TAG,"love before");
+        Log.d(TAG,"my name is xu jia");
     }
 }
